@@ -1,4 +1,4 @@
-name: Cosume workflow
+name: Consume workflow
 on: 
   workflow_dispatch:
   
