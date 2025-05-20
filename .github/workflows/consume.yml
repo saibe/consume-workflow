@@ -1,6 +1,6 @@
-name: Consume workflow
-on:
+name: Conume workflow
+on: 
   workflow_dispatch:
 jobs:
   consume_workflow:
-    - uses: saibe/TestAction/.github/workflows/matrix.yml@main
+    - uses: EricSoder/ActionsIntermediate/.github/workflows/matrix.yml@main
