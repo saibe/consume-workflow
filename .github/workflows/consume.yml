@@ -4,4 +4,4 @@ on:
   workflow_dispatch:
 jobs:
   consume_workflow:
-    - uses: saibe/TestAction/blob/main/.github/workflows/matrix.yml
+    - uses: saibe/TestAction/main/.github/workflows/matrix.yml
